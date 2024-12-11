@@ -17,13 +17,7 @@ A Hotel Dream Resort⭐ is a software platform designed to manage and streamline
 - Includes all necessary tools and options for managing user bookings.
 - Seamless registration and authentication process.
 
-### Admin Login
-- Comprehensive control panel for hotel administrators.
-- Add, update, or delete room details and availability.
-- Manage all hotel operations efficiently from a single dashboard.
-![Screenshot 2024-12-11 165110](https://github.com/user-attachments/assets/2c818a95-81c1-4cef-8066-308617f3e586)
 
-- After Admin successfully login we can have access Admins can log in to manage hotel operations, including room availability and pricing.
 
 
 ### Image Gallery
@@ -66,6 +60,17 @@ A Hotel Dream Resort⭐ is a software platform designed to manage and streamline
 5. **Run the Application**:
    - Place the project folder in the `htdocs` directory of your XAMPP installation.
    - Access the application via `http://localhost/hotel` in your web browser.
+
+
+
+
+### Admin Login
+- Comprehensive control panel for hotel administrators.
+- Add, update, or delete room details and availability.
+- Manage all hotel operations efficiently from a single dashboard.
+![Screenshot 2024-12-11 165110](https://github.com/user-attachments/assets/2c818a95-81c1-4cef-8066-308617f3e586)
+
+- After Admin successfully login we can have access Admins can log in to manage hotel operations, including room availability and pricing.
 
 
 
@@ -122,14 +127,6 @@ A Hotel Dream Resort⭐ is a software platform designed to manage and streamline
 ![Screenshot 2024-12-11 164811](https://github.com/user-attachments/assets/8ccd8ade-7a76-499f-bf38-6f769330cbed)
 
 
-
-## Contact us Section☎️
-
-- Provides detailed contact information for the hotel.
-- Includes phone numbers, email addresses, and the hotel’s physical address.
-- Allows users to reach out for inquiries, support, or additional information
-
-![Screenshot 2024-12-11 164811](https://github.com/user-attachments/assets/8ccd8ade-7a76-499f-bf38-6f769330cbed)
 
 
 
